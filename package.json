@@ -1,0 +1,22 @@
+{
+  "name": "node-bravia-ip-control",
+  "version": "1.0.0",
+  "description": "Enables monitoring and control of Sony Bravia tv's using IP commands over a TPC connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisBrandhorst/node-bravia-ip-control.git"
+  },
+  "author": "Chris Brandhorst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisBrandhorst/node-bravia-ip-control/issues"
+  },
+  "homepage": "https://github.com/ChrisBrandhorst/node-bravia-ip-control#readme",
+  "dependencies": {
+    "debounce": ">=1.0.0"
+  }
+}
